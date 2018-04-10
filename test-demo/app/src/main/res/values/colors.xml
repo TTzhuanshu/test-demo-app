@@ -3,7 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+
 
     <color name="line_bg">#e6e6e6</color>
     <color name="window_background">#eaeaea</color>
+
+
+
 </resources>
